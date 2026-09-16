@@ -2,7 +2,7 @@
 Hi! I recently finished my degree in Software Development, and I love building and designing websites, especially with UX/UI in mind. Frontend is where I feel most at home, and I really enjoy the small details that make a site feel polished.
 
 <p>
-<img align="left" src="assets/profile_pic.jpg" width="300"  alt=""/> 
+<img align="left" src="assets/aboutme_pic.jpg" width="300"  alt=""/> 
 
 ```
 lunartearrr@github
