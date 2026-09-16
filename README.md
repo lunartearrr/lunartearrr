@@ -1,8 +1,18 @@
-## About me
-Hi, I'm Nina. I recently finished my degree in Software Development, and I enjoy building and designing websites. I'm especially passionate about UX/UI. I'm more experienced with frontend development, and I love paying attention to the small details that make a website feel polished. 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=21&pause=1000&color=C0DAF7&width=435&lines=Nina's+Profile+%E2%9D%A4%EF%B8%8E)](https://git.io/typing-svg)  
+Hi! I recently finished my degree in Software Development, and I love building and designing websites, especially with UX/UI in mind. Frontend is where I feel most at home, and I really enjoy the small details that make a site feel polished.
 
-## Technologies 
-♡ HTML  
-♡ CSS (and Tailwind CSS)  
-♡ JavaScript  
-♡ ReactJS  
+<p>
+<img align="left" src="assets/profile_pic.jpg" width="300"  alt=""/> 
+
+```
+lunartearrr@github
+-------------------------
+♡ Software Developer
+♡ Languages: HTML, CSS, JavaScript, Python
+♡ Frameworks: Tailwind CSS, ReactJS
+♡ Design: Canva, Figma
+♡ Tools/Platforms: Git & GitHub, Shopify (Liquid), Wordpress
+♡ Hobbies: Reading, drawing
+```
+</p>
+<br clear="both">
