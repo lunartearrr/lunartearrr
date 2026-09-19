@@ -16,7 +16,7 @@ lunartearrr@github
 
 Education:
 - Associate Degree Software Development, Hogeschool Rotterdam (2024-2026)
-- Creative Media & Game Technologies, Hogeschool Rotterdam (2026-current)
+- Creative Media and Game Technologies, Hogeschool Rotterdam (2026-current)
 ```
 </p>
 <br clear="both">
