@@ -7,12 +7,16 @@ Hi! I recently finished my degree in Software Development, and I love building a
 ```
 lunartearrr@github
 -------------------------
-♡ Software Developer
+♡ Software Developer, Front-end Developer
 ♡ Languages: HTML, CSS, JavaScript, Python
 ♡ Frameworks: Tailwind CSS, ReactJS
 ♡ Design: Canva, Figma
 ♡ Tools/Platforms: Git & GitHub, Shopify (Liquid), Wordpress
 ♡ Hobbies: Reading, drawing
+
+Education:
+- Associate Degree Software Development, Hogeschool Rotterdam (2024-2026)
+- Creative Media & Game Technologies, Hogeschool Rotterdam (2026-current)
 ```
 </p>
 <br clear="both">
